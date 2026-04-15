@@ -1,0 +1,13 @@
+body{
+    font-family: ARIAL;
+    text-align: center;
+}
+input{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    background-color: red;
+    color: black;
+    border-radius: 20px;
+}
